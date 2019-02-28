@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:15 +0800] "GET /149187842867960.html HTTP/1.1" 304 - http-bio-9105-exec-1 241
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:15 +0800] "GET /js/controller/itemController.js HTTP/1.1" 304 - http-bio-9105-exec-3 53
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:16 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-4 31
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:16 +0800] "GET /fonts//icon-pc.woff?59lb71 HTTP/1.1" 404 989 http-bio-9105-exec-5 3
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:17 +0800] "GET /fonts//icon-pc.ttf?59lb71 HTTP/1.1" 404 987 http-bio-9105-exec-7 7
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:17 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-8 2
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:21:03:37 +0800] "GET /assets/img/favicon.ico HTTP/1.1" 404 995 http-bio-9105-exec-10 4
